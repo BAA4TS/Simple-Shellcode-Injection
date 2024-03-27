@@ -54,7 +54,7 @@ int main()
     //
     // Obtenemos el Identificador de ventana
     // Previamente obteneido con WIndows dectectibe
-    //
+    // https://b4aats.lovestoblog.com/2024/03/26/window-detective/
     HWND IndentificadorVentana = FindWindowA((LPCSTR) "Chrome_WidgetWin_1", NULL);
     //
     // Comprobar si ubo un error
